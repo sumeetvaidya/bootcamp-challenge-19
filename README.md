@@ -9,7 +9,7 @@ The project is written in python and uses the Streamlit
 
 ## Installation Guide  
 <br/>
-The program is run in streamlit. Run command: streamlit run pychain.py
+The program is run in streamlit. Run command: streamlit run fintech_finder.py
 <br/>
 
 <br/>
