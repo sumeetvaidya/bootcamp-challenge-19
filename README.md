@@ -19,22 +19,25 @@ The program is run in streamlit. Run command: streamlit run pychain.py
 
 ### UI Output of a Sample transaction
 
-<img width="1285" alt="Screen Shot 2022-01-29 at 1 02 01 PM" src="https://user-images.githubusercontent.com/17937188/151672437-4bed8c91-e84a-4fbf-a4e8-acc0e64da03a.png">
+<img width="1351" alt="Screen Shot 2022-01-29 at 1 47 01 PM" src="https://user-images.githubusercontent.com/17937188/151673726-8908953a-d12a-4ca9-9d69-5526fdd519cf.png">
+
 
 
 ### Account Snapshot
+<img width="1203" alt="Screen Shot 2022-01-29 at 1 46 26 PM" src="https://user-images.githubusercontent.com/17937188/151673724-2341e496-4fdb-4c27-a249-dd10c27c356e.png">
 
 
-<img width="1153" alt="Screen Shot 2022-01-29 at 12 17 03 PM" src="https://user-images.githubusercontent.com/17937188/151672346-c868188d-60cc-4513-b198-b3225047335e.png">
+
 
 ### Transaction Sanpshot
-<img width="930" alt="Screen Shot 2022-01-29 at 12 15 43 PM" src="https://user-images.githubusercontent.com/17937188/151672444-28e47b3b-2a36-4d4b-a2bb-23456645b715.png">
+
+<img width="1197" alt="Screen Shot 2022-01-29 at 1 45 48 PM" src="https://user-images.githubusercontent.com/17937188/151673722-a210b623-f07b-4888-81a6-cb2faeb6892b.png">
 
 
 
 ### Block SanpShot
 
-<img width="907" alt="Screen Shot 2022-01-29 at 12 15 29 PM" src="https://user-images.githubusercontent.com/17937188/151672457-08e2bdbb-096d-47c8-b78b-5c83d30cbb06.png">
+<img width="1199" alt="Screen Shot 2022-01-29 at 1 45 30 PM" src="https://user-images.githubusercontent.com/17937188/151673720-78da3364-5cab-4b3a-bf7a-8360b6f72dcb.png">
 
 
 
